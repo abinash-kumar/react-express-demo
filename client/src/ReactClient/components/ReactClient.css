@@ -1,0 +1,12 @@
+.ReactClient > ul{
+    padding: 0;
+    margin: auto;
+    width: 30%;
+    list-style: none;
+}
+
+.ReactClient > ul>li{
+    line-height: 2rem;
+    text-align: center;
+    border-bottom: 1px solid #777;
+}
